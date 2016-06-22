@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# dir
+DragonEnglish_mp3/
+DragonEnglish_wav/
